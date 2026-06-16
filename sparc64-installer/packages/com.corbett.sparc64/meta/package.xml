@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Corbett SPARC64 Linux Kernel 6.10.7</DisplayName>
+    <Description>Mainline Linux kernel build targeting SPARC64 architecture</Description>
+    <Version>6.10.7</Version>
+    <ReleaseDate>2026-06-17</ReleaseDate>
+    <Default>true</Default>
+    <ForcedInstallation>false</ForcedInstallation>
+    <Licenses>
+        <License name="Terms of Use and Disclaimer" file="license.txt"/>
+    </Licenses>
+</Package>

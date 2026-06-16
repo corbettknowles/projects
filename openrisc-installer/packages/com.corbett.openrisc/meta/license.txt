@@ -1,0 +1,52 @@
+TERMS OF USE AND DISCLAIMER
+============================
+
+BY CLICKING "I AGREE" AND PROCEEDING WITH INSTALLATION YOU CONFIRM
+THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO ALL TERMS BELOW.
+IF YOU DO NOT AGREE, CLICK "I DO NOT AGREE" AND EXIT THE INSTALLER.
+
+1. EXPERIMENTAL SOFTWARE
+This OpenRISC kernel build is provided as an experimental community
+build for testing and evaluation purposes only. It is NOT intended
+for production, commercial, safety-critical, or mission-critical
+use under any circumstances.
+
+2. HARDWARE RISK
+The builder assumes NO responsibility for any damage to hardware,
+FPGA boards, or equipment resulting from the use of this software.
+You assume full responsibility for any hardware damage or data loss.
+
+3. NO WARRANTY
+This software is provided "as is" without warranty of any kind.
+The builder makes no warranties regarding fitness for a particular
+purpose, merchantability, stability, or compatibility.
+
+4. LIMITATION OF LIABILITY
+The builder shall not be held liable for ANY damages arising from
+the use or inability to use this software including hardware damage,
+data loss, system instability, or any consequential damages.
+
+5. USE AT YOUR OWN RISK
+You assume complete responsibility for all consequences resulting
+from the use of this software on your systems or equipment.
+
+6. OPEN SOURCE COMPONENTS
+This build contains the Linux kernel licensed under GPLv2.
+Source available at https://kernel.org
+
+7. CUSTOM BUILD CONFIGURATIONS
+Custom build scripts and configurations developed by Corbett are
+released under GNU General Public License v3.0 (GPL v3.0).
+Full license: https://www.gnu.org/licenses/gpl-3.0.html
+
+8. NO SUPPORT OBLIGATION
+The builder is under no obligation to provide support, updates,
+or bug fixes for this or any future build.
+
+9. INDEMNIFICATION
+By using this software you agree to indemnify and hold harmless
+the builder from any claims or damages arising from your use.
+
+BY PROCEEDING YOU CONFIRM YOU ARE AT LEAST 18 YEARS OF AGE,
+HAVE LEGAL AUTHORITY TO ACCEPT THESE TERMS, AND FULLY AGREE
+TO ALL CONDITIONS STATED ABOVE.

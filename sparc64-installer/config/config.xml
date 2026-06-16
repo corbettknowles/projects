@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Corbett SPARC64 Linux Kernel</Name>
+    <Version>6.10.7</Version>
+    <Title>Corbett SPARC64 Linux Kernel Installer</Title>
+    <Publisher>Corbett</Publisher>
+    <StartMenuDir>Corbett Kernel Builds</StartMenuDir>
+    <TargetDir>@HomeDir@/corbett-sparc64</TargetDir>
+    <WizardStyle>Modern</WizardStyle>
+    <Logo>computer-avatar-1.png</Logo>
+</Installer>

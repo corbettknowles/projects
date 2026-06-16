@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Corbett Hardened RISC-V 64 Linux Kernel 6.10.7</DisplayName>
+    <Description>Hardened mainline Linux kernel targeting Microchip PolarFire SoC MPFS Icicle Kit</Description>
+    <Version>6.10.7</Version>
+    <ReleaseDate>2026-06-15</ReleaseDate>
+    <Default>true</Default>
+    <ForcedInstallation>false</ForcedInstallation>
+    <Licenses>
+        <License name="Terms of Use and Disclaimer" file="license.txt"/>
+    </Licenses>
+</Package>

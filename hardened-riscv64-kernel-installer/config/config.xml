@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Corbett Hardened RISC-V 64 Kernel</Name>
+    <Version>6.10.7</Version>
+    <Title>Corbett Hardened RISC-V 64 Linux Kernel Installer</Title>
+    <Publisher>Corbett</Publisher>
+    <StartMenuDir>Corbett Kernel Builds</StartMenuDir>
+    <TargetDir>@HomeDir@/corbett-riscv64-hardened</TargetDir>
+    <WizardStyle>Modern</WizardStyle>
+    <Logo>computer-avatar-1.png</Logo>
+    </Installer>

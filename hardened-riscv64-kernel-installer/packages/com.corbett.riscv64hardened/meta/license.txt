@@ -1,0 +1,73 @@
+TERMS OF USE AND DISCLAIMER
+============================
+
+BY PROCEEDING WITH INSTALLATION YOU CONFIRM THAT YOU HAVE READ,
+UNDERSTOOD, AND AGREE TO ALL TERMS STATED BELOW.
+IF YOU DO NOT AGREE, DO NOT INSTALL THIS SOFTWARE.
+
+1. EXPERIMENTAL SOFTWARE
+This kernel build is provided as an experimental, community build for
+testing and evaluation purposes only. It is NOT intended for production,
+commercial, safety-critical, or mission-critical use under any circumstances.
+
+2. HARDWARE RISK
+The builder assumes NO responsibility for any damage to hardware,
+development boards, storage devices, or equipment resulting from the
+use of this software. Flashing kernel images to hardware carries
+inherent risk. You assume full responsibility for any hardware damage,
+data loss, or equipment failure.
+
+3. NO WARRANTY
+This software is provided "as is" without warranty of any kind, express
+or implied. The builder makes no warranties regarding:
+- Fitness for a particular purpose
+- Merchantability or stability
+- Compatibility with specific hardware revisions
+- Security effectiveness of hardening features
+- Non-infringement of third party rights
+
+4. LIMITATION OF LIABILITY
+The builder shall not be held liable for ANY damages arising from
+the use or inability to use this software, including but not limited to:
+- Hardware damage or failure
+- Data loss or corruption
+- System instability or crashes
+- Security breaches or vulnerabilities
+- Loss of business, revenue, or data
+- Any direct, indirect, incidental, or consequential damages
+
+5. SECURITY DISCLAIMER
+While this kernel build includes security hardening features, the builder
+makes NO guarantees regarding the security effectiveness of this build
+for any specific threat model or use case. Security hardening features
+require proper system configuration to be effective. This build alone
+does not constitute a complete security solution.
+
+6. USE AT YOUR OWN RISK
+You assume complete and sole responsibility for any and all consequences
+resulting from the use of this software on your systems or equipment.
+
+7. OPEN SOURCE COMPONENTS
+This build contains the Linux kernel licensed under GPLv2.
+The Linux kernel source is available at https://kernel.org
+All component licenses are subject to their respective terms.
+
+8. CUSTOM SCRIPTS AND BUILD CONFIGURATIONS LICENSE
+Custom build scripts, configuration files, hardening configurations,
+and automation tools developed by Corbett and included in this package
+are released under the GNU General Public License v3.0 (GPL v3.0).
+You are free to use, modify, and distribute these under GPL v3.0 terms.
+Full license text: https://www.gnu.org/licenses/gpl-3.0.html
+
+9. NO SUPPORT OBLIGATION
+The builder is under no obligation to provide support, updates,
+patches, or bug fixes for this or any future build.
+
+10. INDEMNIFICATION
+By using this software you agree to indemnify and hold harmless the
+builder from any claims, damages, or expenses arising from your use
+of this software.
+
+BY CLICKING "I AGREE" AND PROCEEDING WITH INSTALLATION YOU CONFIRM
+THAT YOU ARE AT LEAST 18 YEARS OF AGE, HAVE THE LEGAL AUTHORITY TO
+ACCEPT THESE TERMS, AND FULLY AGREE TO ALL CONDITIONS STATED ABOVE.

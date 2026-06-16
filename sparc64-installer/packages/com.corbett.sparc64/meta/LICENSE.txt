@@ -1,0 +1,72 @@
+TERMS OF USE AND DISCLAIMER
+============================
+
+BY CLICKING "I AGREE" AND PROCEEDING WITH INSTALLATION YOU CONFIRM
+THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO ALL TERMS BELOW.
+IF YOU DO NOT AGREE, CLICK "I DO NOT AGREE" AND EXIT THE INSTALLER.
+
+1. EXPERIMENTAL SOFTWARE
+This SPARC64 kernel build is provided as an experimental community
+build for testing and evaluation purposes only. It is NOT intended
+for production, commercial, safety-critical, or mission-critical
+use under any circumstances.
+
+2. HARDWARE RISK
+The builder assumes NO responsibility for any damage to hardware,
+servers, workstations, or equipment resulting from the use of this
+software. Deploying kernel images to hardware carries inherent risk.
+You assume full responsibility for any hardware damage, data loss,
+or equipment failure.
+
+3. LEGACY ARCHITECTURE NOTICE
+SPARC64 is a legacy architecture. This kernel build is provided
+for evaluation, research, and legacy system support purposes.
+Compatibility with specific SPARC64 hardware variants is not
+guaranteed.
+
+4. NO WARRANTY
+This software is provided "as is" without warranty of any kind,
+express or implied. The builder makes no warranties regarding:
+- Fitness for a particular purpose
+- Merchantability or stability
+- Compatibility with specific hardware
+- Non-infringement of third party rights
+
+5. LIMITATION OF LIABILITY
+The builder shall not be held liable for ANY damages arising from
+the use or inability to use this software, including but not
+limited to:
+- Hardware damage or failure
+- Data loss or corruption
+- System instability or crashes
+- Loss of business or revenue
+- Any direct, indirect, incidental, or consequential damages
+
+6. USE AT YOUR OWN RISK
+You assume complete and sole responsibility for any and all
+consequences resulting from the use of this software on your
+systems or equipment, including third party equipment.
+
+7. OPEN SOURCE COMPONENTS
+This build contains the Linux kernel licensed under GPLv2.
+Source available at https://kernel.org
+All components subject to their respective license terms.
+
+8. CUSTOM BUILD CONFIGURATIONS
+Custom build scripts and configuration files developed by Corbett
+are released under GNU General Public License v3.0 (GPL v3.0).
+Full license: https://www.gnu.org/licenses/gpl-3.0.html
+
+9. NO SUPPORT OBLIGATION
+The builder is under no obligation to provide support, updates,
+patches, or bug fixes for this or any future build.
+
+10. INDEMNIFICATION
+By using this software you agree to indemnify and hold harmless
+the builder from any claims, damages, or expenses arising from
+your use of this software.
+
+BY PROCEEDING YOU CONFIRM YOU ARE AT LEAST 18 YEARS OF AGE,
+HAVE LEGAL AUTHORITY TO ACCEPT THESE TERMS, AND FULLY AGREE
+TO ALL CONDITIONS STATED ABOVE. THE INSTALLER WILL NOT PROCEED
+WITHOUT YOUR EXPLICIT AGREEMENT TO THESE TERMS.
